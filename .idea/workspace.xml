@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2f1153d-03f6-4312-830e-04ffe1cd5919" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a-z_Method.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Method_basic.java" afterDir="false" />
+    <list default="true" id="d2f1153d-03f6-4312-830e-04ffe1cd5919" name="Changes" comment="function and method basic">
+      <change afterPath="$PROJECT_DIR$/src/Method_multipleFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Method_basic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Method_basic.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +37,7 @@
     "onboarding.tips.debug.path": "C:/Users/Asus/IdeaProjects/a-z_Method/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Method_multipleFunction">
     <configuration name="Method_basic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Method_basic" />
       <module name="a-z_Method" />
@@ -50,8 +45,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Method_multipleFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Method_multipleFunction" />
+      <module name="a-z_Method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Method_multipleFunction" />
         <item itemvalue="Application.Method_basic" />
       </list>
     </recent_temporary>
@@ -65,7 +68,20 @@
       <option name="presentableId" value="Default" />
       <updated>1747482999662</updated>
     </task>
+    <task id="LOCAL-00001" summary="function and method basic">
+      <option name="closed" value="true" />
+      <created>1747489858512</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747489858512</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="function and method basic" />
+    <option name="LAST_COMMIT_MESSAGE" value="function and method basic" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
