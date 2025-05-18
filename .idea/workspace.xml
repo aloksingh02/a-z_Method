@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2f1153d-03f6-4312-830e-04ffe1cd5919" name="Changes" comment="how to give a argument and call it.">
-      <change afterPath="$PROJECT_DIR$/src/Method_studentDetail.java" afterDir="false" />
-    </list>
+    <list default="true" id="d2f1153d-03f6-4312-830e-04ffe1cd5919" name="Changes" comment="Student detail using method" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +33,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Asus/IdeaProjects/a-z_Method/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Method_studentDetail">
+  <component name="RunManager" selected="Application.Method_returnType">
     <configuration name="Method_basic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Method_basic" />
       <module name="a-z_Method" />
@@ -57,6 +55,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Method_returnType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Method_returnType" />
+      <module name="a-z_Method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Method_studentDetail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Method_studentDetail" />
       <module name="a-z_Method" />
@@ -66,6 +71,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Method_returnType" />
         <item itemvalue="Application.Method_studentDetail" />
         <item itemvalue="Application.Method_passingArgument" />
         <item itemvalue="Application.Method_multipleFunction" />
@@ -106,14 +112,23 @@
       <option name="project" value="LOCAL" />
       <updated>1747555835776</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Student detail using method">
+      <option name="closed" value="true" />
+      <created>1747556378934</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1747556378934</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="function and method basic" />
     <MESSAGE value="multiple method" />
     <MESSAGE value="how to give a argument and call it." />
-    <option name="LAST_COMMIT_MESSAGE" value="how to give a argument and call it." />
+    <MESSAGE value="Student detail using method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Student detail using method" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
