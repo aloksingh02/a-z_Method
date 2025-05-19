@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2f1153d-03f6-4312-830e-04ffe1cd5919" name="Changes" comment="basic of returnType">
-      <change afterPath="$PROJECT_DIR$/src/Method_combination.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Method_pascalTriangle.java" afterDir="false" />
+    <list default="true" id="d2f1153d-03f6-4312-830e-04ffe1cd5919" name="Changes" comment="pascal triangle using method">
+      <change afterPath="$PROJECT_DIR$/src/Method_globalVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Method_scopeVariable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +37,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Asus/IdeaProjects/a-z_Method/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Method_pascalTriangle">
+  <component name="RunManager" selected="Application.Method_scopeVariable">
     <configuration name="Method_combination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Method_combination" />
       <module name="a-z_Method" />
@@ -52,15 +52,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Method_passingArgument" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Method_passingArgument" />
+    <configuration name="Method_returnType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Method_returnType" />
       <module name="a-z_Method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Method_returnType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Method_returnType" />
+    <configuration name="Method_scopeVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Method_scopeVariable" />
       <module name="a-z_Method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,11 +75,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Method_scopeVariable" />
         <item itemvalue="Application.Method_pascalTriangle" />
         <item itemvalue="Application.Method_combination" />
         <item itemvalue="Application.Method_returnType" />
         <item itemvalue="Application.Method_studentDetail" />
-        <item itemvalue="Application.Method_passingArgument" />
       </list>
     </recent_temporary>
   </component>
@@ -132,7 +132,23 @@
       <option name="project" value="LOCAL" />
       <updated>1747558844836</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="combination using method">
+      <option name="closed" value="true" />
+      <created>1747636579844</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1747636579844</updated>
+    </task>
+    <task id="LOCAL-00007" summary="pascal triangle using method">
+      <option name="closed" value="true" />
+      <created>1747636607702</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1747636607702</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -141,7 +157,9 @@
     <MESSAGE value="how to give a argument and call it." />
     <MESSAGE value="Student detail using method" />
     <MESSAGE value="basic of returnType" />
-    <option name="LAST_COMMIT_MESSAGE" value="basic of returnType" />
+    <MESSAGE value="combination using method" />
+    <MESSAGE value="pascal triangle using method" />
+    <option name="LAST_COMMIT_MESSAGE" value="pascal triangle using method" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
