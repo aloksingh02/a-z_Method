@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2f1153d-03f6-4312-830e-04ffe1cd5919" name="Changes" comment="local variable using method">
-      <change afterPath="$PROJECT_DIR$/src/Method_globalVariable.java" afterDir="false" />
+    <list default="true" id="d2f1153d-03f6-4312-830e-04ffe1cd5919" name="Changes" comment="global variable using method">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +35,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Asus/IdeaProjects/a-z_Method/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Method_scopeVariable">
+  <component name="RunManager" selected="Application.Method_swap">
     <configuration name="Method_combination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Method_combination" />
       <module name="a-z_Method" />
@@ -50,13 +50,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Method_returnType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Method_returnType" />
-      <module name="a-z_Method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Method_scopeVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Method_scopeVariable" />
       <module name="a-z_Method" />
@@ -64,8 +57,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Method_studentDetail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Method_studentDetail" />
+    <configuration name="Method_swap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Method_swap" />
+      <module name="a-z_Method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Method_swapNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Method_swapNumber" />
       <module name="a-z_Method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,11 +73,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Method_swap" />
+        <item itemvalue="Application.Method_swapNumber" />
         <item itemvalue="Application.Method_scopeVariable" />
         <item itemvalue="Application.Method_pascalTriangle" />
         <item itemvalue="Application.Method_combination" />
-        <item itemvalue="Application.Method_returnType" />
-        <item itemvalue="Application.Method_studentDetail" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +154,23 @@
       <option name="project" value="LOCAL" />
       <updated>1747638713056</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="global variable using method">
+      <option name="closed" value="true" />
+      <created>1747639970815</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1747639970815</updated>
+    </task>
+    <task id="LOCAL-00010" summary="global variable using method">
+      <option name="closed" value="true" />
+      <created>1747640043683</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1747640043683</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -166,7 +182,8 @@
     <MESSAGE value="combination using method" />
     <MESSAGE value="pascal triangle using method" />
     <MESSAGE value="local variable using method" />
-    <option name="LAST_COMMIT_MESSAGE" value="local variable using method" />
+    <MESSAGE value="global variable using method" />
+    <option name="LAST_COMMIT_MESSAGE" value="global variable using method" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
