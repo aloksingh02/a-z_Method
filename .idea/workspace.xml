@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2f1153d-03f6-4312-830e-04ffe1cd5919" name="Changes" comment="method swap">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d2f1153d-03f6-4312-830e-04ffe1cd5919" name="Changes" comment="count a digit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -186,7 +184,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748107658708</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="count a digit">
+      <option name="closed" value="true" />
+      <created>1748197252166</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1748197252166</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -200,7 +206,8 @@
     <MESSAGE value="local variable using method" />
     <MESSAGE value="global variable using method" />
     <MESSAGE value="method swap" />
-    <option name="LAST_COMMIT_MESSAGE" value="method swap" />
+    <MESSAGE value="count a digit" />
+    <option name="LAST_COMMIT_MESSAGE" value="count a digit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
