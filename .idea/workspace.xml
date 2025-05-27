@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2f1153d-03f6-4312-830e-04ffe1cd5919" name="Changes" comment="count a digit" />
+    <list default="true" id="d2f1153d-03f6-4312-830e-04ffe1cd5919" name="Changes" comment="2sum" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +33,14 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Asus/IdeaProjects/a-z_Method/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Method_countDigits">
+  <component name="RunManager" selected="Application.Method_basic2">
+    <configuration name="Method_basic2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Method_basic2" />
+      <module name="a-z_Method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Method_countDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Method_countDigits" />
       <module name="a-z_Method" />
@@ -43,13 +50,6 @@
     </configuration>
     <configuration name="Method_palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Method_palindrome" />
-      <module name="a-z_Method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Method_scopeVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Method_scopeVariable" />
       <module name="a-z_Method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -71,11 +71,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Method_basic2" />
         <item itemvalue="Application.Method_countDigits" />
         <item itemvalue="Application.Method_palindrome" />
         <item itemvalue="Application.Method_swap" />
         <item itemvalue="Application.Method_swapNumber" />
-        <item itemvalue="Application.Method_scopeVariable" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +192,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748197252166</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="2sum">
+      <option name="closed" value="true" />
+      <created>1748253030785</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1748253030785</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -207,7 +215,8 @@
     <MESSAGE value="global variable using method" />
     <MESSAGE value="method swap" />
     <MESSAGE value="count a digit" />
-    <option name="LAST_COMMIT_MESSAGE" value="count a digit" />
+    <MESSAGE value="2sum" />
+    <option name="LAST_COMMIT_MESSAGE" value="2sum" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
