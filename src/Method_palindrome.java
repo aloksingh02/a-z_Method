@@ -1,30 +1,27 @@
+import java.util.Scanner;
 public class Method_palindrome {
-
-        static int recursive_func(int n, int rev)
-        {
-            if (n < 10) {
-                return rev * 10 + n;
-            }
-            else {
-                int last_digit = n % 10;
-                rev = rev * 10 + last_digit;
-                return recursive_func(n / 10, rev);
-            }
+    public static boolean isPalindrome(int num){
+        int originalNum = num;
+        int rev = 0;
+        while(num>0){
+            rev = rev*10 + num%10;
+            num /= 10;
         }
+        return originalNum == rev;
+    }
 
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Enter the number: ");
+        int num1 = sc.nextInt();
 
-        public static void main(String[] args)
-        {
-            int n = 123464321;
-            int rev = recursive_func(n, 0);
-
-            System.out.println("Reverse of n = " + rev);
-
-            if (n == rev)
-                System.out.println("Palindrome = Yes");
-            else
-                System.out.println("Palindrome = No");
+        if(isPalindrome(num1)){
+            System.out.println("number is palindrome");
+        }
+        else{
+            System.out.println("Number is not palinfrome");
         }
     }
+}
 
 
